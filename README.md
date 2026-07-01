@@ -1,7 +1,7 @@
 # Crab Release Binaries
 
 This repository hosts release artifacts for [Crab](https://crab.build), a
-serverless git remote helper for repositories with large files.
+serverless git remote storage solution for repositories with large files.
 
 Crab stores repository data directly in cloud object storage such as S3, GCS, or
 Azure Blob Storage. There is no separate Git server, database, or LFS endpoint to
